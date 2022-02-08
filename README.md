@@ -5,7 +5,7 @@
 - [property based testing](#property)
 - [spark testing](#spark)
 - [data testing](#data)
-- [data testing](#infrastructure)
+- [infrastructure tools](#infrastructure)
 
 ## Property based testing
 
@@ -25,4 +25,4 @@
 
 ## Infrastructure tools
 
-- [Great Expectations](https://github.com/great-expectations/great_expectations)
+- [Testcontainers](https://www.testcontainers.org/)
